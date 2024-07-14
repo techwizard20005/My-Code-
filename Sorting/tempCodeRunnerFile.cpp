@@ -1,0 +1,1 @@
+if(arr2[j]==1) continue;
